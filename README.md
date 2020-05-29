@@ -1,3 +1,3 @@
-# Perfect-Mongo
+# PerfectMongoDB
 
 A description of this package.
